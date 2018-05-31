@@ -1,0 +1,20 @@
+---
+title: Cost of Bank Misconduct
+date: 2018-01-09 19:07:00 Z
+categories:
+- Charts
+Image: "/uploads/iStock-493481266.jpg"
+Person: MEDICI Team
+category:
+- RegTech
+- Quantum Computing
+Is Featured: true
+---
+
+The cost of misconduct is defined here as costs borne by banks in connection with imposed penalties, paid settlements, costs of regulatory proceedings, customer compensation and other relevant costs.
+
+As can be seen from the graph, the highest fines result from operational risks, which is a clearly addressable area for RegTech. Many regulators have been using a number of surveillance softwares, which combine real-time data and historical trends to track market irregularities and misconduct like market abuse, manipulation, money laundering, rogue trading and insider trading across asset classes and markets. Many banks too use these tools as a standard risk management practice. However, the of use of AI/ML in RegTech solutions by various startups and incumbent GRC solution providers, provides an opportunity to banks to address these areas of concern more efficiently.
+
+Handling compliance issues is by nature more complicated with agents. This is reinforced by the amounts of fines banks have had to pay for mis-selling. The new technologies, when combined, can lead to exciting solutions. E.g., the combination of customer facing technology like tablet banking, huge amounts of data available about existing and prospective customers, real time analysis and compliance solutions, can help banks ensure on a near real time basis that suitable products are sold to customers.
+
+![MisconductCost.png](/uploads/MisconductCost.png)

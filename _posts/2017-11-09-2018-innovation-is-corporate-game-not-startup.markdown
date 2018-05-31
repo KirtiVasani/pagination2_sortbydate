@@ -1,0 +1,83 @@
+﻿---
+title: '2018: Innovation Is a Corporate Game, Not Startup'
+date: 2017-11-09 05:00:00 +05:30
+categories:
+- Innovation
+- Startups
+tags:
+- Asia
+- Europe
+- Innovation
+- insights
+- US
+Person: Elena Mesropyan
+category:
+- Innovation
+- Startups
+Markets:
+- Asia
+- Europe
+- Innovation
+- insights
+- US
+type: post
+status: publish
+layout: post
+---
+
+<p>The ability to develop and adopt hi-tech has been widely attributed to the startup community rather than to corporate players. The year 2018 will be very different – corporations are gradually taking over the game by either aggressively pressuring startups in developing niches, or by monopolizing the areas of advanced technologies applications by democratizing their adoption. Prices will fall, technology will get more accessible to businesses, and the startup community will face not only peer pressure but a revival of corporate players that are exploring new niches.</p>
+<p>A series of latest important news suggest that innovation in 2018 may become a corporate game, not a startup, which is dictated by the <a href="https://www.forbes.com/sites/tendayiviki/2017/11/07/how-creating-an-entrepreneurship-function-can-help-sustain-corporate-innovation/#12a935fc12a6">vision</a> that "with the rapid pace of technological changes and disruption from startups, large corporations are under increasing pressure to respond with innovation."</p>
+<p>Amazon is taking over industries at the speed of light. Now, the company is further rooting in the payments space with its latest partnership, 7-Eleven (added to CVS, Speedway, and GameStop, along with a handful of other supermarket chains and convenience stores).</p>
+<h2>Amazon Cash, the service that lets you use cash to shop Amazon online, arrives at 7-Eleven</h2>
+<p style="padding-left: 30px;">•  Amazon Cash, the service that lets consumers add cash to their Amazon.com balance at brick-and-mortar retailers, is now available at nearly 8,000 7-Eleven convenience stores.</p>
+<p style="padding-left: 30px;">•  Cash customers represent 27% of consumers. These customers may not be regularly shopping online due to the need to use credit or debit cards at checkout.</p>
+<p style="padding-left: 30px;">•  Allowing customers to use cash to pay is only way retailers are targeting this market. This year, both Walmart and Amazon made it easier for customers on government assistance to shop on their sites and use their services, too.</p>
+<p style="padding-left: 30px;">•  To use Amazon Cash at a 7-Eleven, customers present a personalized barcode found in their Amazon app to the cashier along with the money they want to load. The barcode also can be sent via a text or printed. The cashier then scans the barcode, which immediately adds the funds to the customer’s account balance on Amazon.com.</p>
+<p style="padding-left: 30px;">•  Customers can load between $15 and $500 in a single transaction, with no fees.</p>
+<p style="padding-left: 30px;">•  7-Eleven also carries Amazon prepaid gift cards in denominations from $25 to $500.</p>
+<p style="padding-left: 30px;">•  7-Eleven operates, franchises or licenses 10,900 stores in the US and Canada. This launch covers a majority of 7-Eleven’s US footprint. </p>
+<p><a href="https://techcrunch.com/2017/11/06/amazon-cash-the-service-that-lets-you-use-cash-to-shop-online-arrives-at-7-eleven/">Read more</a> on <i>TechCrunch</i>.</p>
+---
+<h2>Tencent is reportedly testing its own autonomous driving system</h2>
+<p style="padding-left: 30px;">•  Tencent, one of China’s largest tech firms and the maker of WeChat, already has a prototype and is testing the system internally.</p>
+<p style="padding-left: 30px;">•  If the company's autonomous driving tests go well, it would help Tencent catch up with fellow Chinese tech giant and rival Baidu, which recently launched a $1.5 billion investment fund as part of Apollo, its autonomous vehicle initiative, and plans to mass produce Level 4 self-driving cars by 2021 with BAIC Group.</p>
+<p style="padding-left: 30px;">•  Tencent recently announced an alliance to work on AI technology for autonomous cars. </p>
+<p style="padding-left: 30px;">•  Tencent’s auto and driving-related investments include Nio, Didi Chuxing, and a 5% stake in Tesla.</p>
+<p><a href="https://techcrunch.com/2017/11/07/tencent-is-reportedly-testing-its-own-autonomous-driving-system/">Read more</a> on <i>TechCrunch</i>.</p>
+---
+<h2>Walmart Pay 'Close to Surpassing' Apple Pay in US Mobile Payments Usage</h2>
+<p style="padding-left: 30px;">Available nationwide in 4,774 Walmart stores, Walmart Pay is "close to surpassing" Apple Pay in terms of mobile payments usage in the US. </p>
+<p style="padding-left: 30px;">•  Walmart Pay is enrolling tens of thousands of new users a day and has seen a steady growth over the past few months. Two-thirds of those who try it use it again within 21 days. </p>
+<p style="padding-left: 30px;">•  "Wal-Mart Stores Inc.’s app is close to surpassing Apple Pay in usage for mobile payments in the US, giving the world’s largest retailer even more clout as a growing number of people shop with their smartphones."  - Daniel Eckert, SVP of Walmart Services &amp; Digital Acceleration.</p>
+<p style="padding-left: 30px;">•  Walmart Pay is predicted to grow bigger than Apple Pay in active US users (who use the mobile wallets for at least two transactions per month) by the end of 2018.</p>
+<p style="padding-left: 30px;">•  Walmart began gaining ground on Apple earlier in 2017, when 5.1% of Walmart shoppers said they used Walmart Pay this past June, just below the 5.5% of iPhone users who said the same at locations that accept Apple Pay. </p>
+<p style="padding-left: 30px;">•  Walmart Pay's adoption rate is "higher than Samsung Pay and Android Pay combined." This is likely because Walmart owns and controls the mobile wallet software and can make quick changes.</p>
+<p style="padding-left: 30px;">•  Walmart is more interested in directly competing with Amazon than Apple. </p>
+<p><a href="https://www.macrumors.com/2017/11/07/walmart-pay-close-to-apple-pay/">Read more</a> on MacRumors.</p>
+---
+<p>Microsoft is a very interesting corporate player that underwent a significant transformation of its image and work. The year 2018 will be a year of Microsoft 2.0 as the company is silently but surely working on an important tech that could potentially transform payments/shopping experience – Keyset Fingerprint Sensor – a fingerprint sensor in a computer’s keyboard that enables a user to press a key to conduct biometric authentication. Old is the new <em>new</em>. With this patent, Microsoft seeks to tie authentication to its devices, locking out competitive security solutions. </p>
+<h2>Microsoft Patents Fingerprint Authentication Sensor in Keyboard, Touchscreens</h2>
+<p style="padding-left: 30px;">•  Microsoft is seeking to build fingerprint sensors into touchscreens and keyboards to authenticate users. For advertising, e-commerce and search, the technology could potentially provide the same type of data as eye tracking only through fingerprint sensors.</p>
+<p style="padding-left: 30px;">•  Two separate patents were updated or granted in 2017. </p>
+<p style="padding-left: 30px;">•  In the first patent, Microsoft received a patent for an under-display fingerprint sensor originally filed in July 2016.</p>
+<p style="padding-left: 30px;">•  Another Microsoft patent that would put a fingerprint sensor in the keys of computer keyboards would not only impact digital identification &amp; authentication but also e-commerce and advertising.</p>
+<p style="padding-left: 30px;">•  The patent called Keyset Fingerprint Sensor would integrate the fingerprint reader in the keyboard's keys. The fingerprint sensor in a computer’s keyboard enables a user to press a key to conduct biometric authentication.</p>
+<p><a href="https://www.mediapost.com/publications/article/309804/microsoft-patents-fingerprint-authentication-senso.html">Read more</a> on MediaPost.</p>
+---
+<p>OCBC Bank is lately all over the news. <a href="https://letstalkpayments.com/leading-api-bandwagon-apac-connect2ocbc-story/">The bank is leading the API bandwagon in APAC</a>, <a href="https://letstalkpayments.com/singapore-fintech-festival-2017/">actively engaging with the startup community</a>, and <a href="https://letstalkpayments.com/asia-setting-an-innovation-adoption-benchmark/">bringing the latest capabilities of Apple craze into banking</a>. Loyal to its course, the bank now seeks to bring cutting-edge efficiency to fraud detection by adopting AI/ML-powered solution offered by an Israeli FinTech startup. </p>
+<h2>OCBC partners AI FinTech ThetaRay to detect suspicious fund flows</h2>
+<p style="padding-left: 30px;">•  OCBC Bank is working with an Israeli FinTech to boost the bank's operational efficiency and accuracy in the detection of suspicious transactions using AI and ML. OCBC is the first bank to tap AI and ML to combat financial crime.</p>
+<p style="padding-left: 30px;">•  The bank will extend its PoC testing with FinTech firm ThetaRay after early tests showed that the FinTech's technology was able to reduce the number of alerts that did not require further review by 35%.</p>
+<p style="padding-left: 30px;">•  By categorizing the flagged transactions by their risk levels more effectively, the accuracy rate of identifying suspicious transactions increased by more than four times, the bank said. The test was based on one year's worth of OCBC corporate banking transaction data.</p>
+<p style="padding-left: 30px;">•  The bank targets to fully implement the technology in Q2 2018.</p>
+<p><a href="http://www.businesstimes.com.sg/companies-markets/ocbc-partners-ai-fintech-thetaray-to-detect-suspicious-fund-flows">Read more</a> on <i>the Business Times.</i></p>
+---
+<p>Vodafone Group – which is one of the world’s largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications – has mobile operations in 26 countries, partners with mobile networks in 49 more, and fixed broadband operations in 17 markets. As of 30 June 2017, Vodafone Group had 523.5 million mobile customers and 18.5 million fixed broadband customers, including India and all of the customers in Vodafone’s joint ventures and associates. The company now is making a move into creating its own IoT ecosystem. At such a scale and having access to an unthinkable amount of data, Vodafone is on a quest to create a small connected world of its own, where it will be able to lock its customers in by resolving any potential needs, locking out the competition. </p>
+<h2>Telecoms giant Vodafone makes push into Internet of Things consumer market</h2>
+<p style="padding-left: 30px;">•  Vodafone has launched a system that will allow consumers to connect millions of home and leisure electronics products to its dedicated global IoT network.</p>
+<p style="padding-left: 30px;">•  Vodafone's 'V by Vodafone' system is made up of, among other things, an IoT SIM card and a smartphone app. The SIM card will be sent out with IoT-enabled products sold by Vodafone, while the app will give customers an overview of all the IoT-enabled products registered to their account.</p>
+<p style="padding-left: 30px;">•  The potential economic impact of IoT in 2025, including consumer surplus, could be anything between $3.9 trillion and $11.1 trillion.</p>
+<p style="padding-left: 30px;">•  "The internet of things is already beginning to transform how businesses operate," Vittorio Colao, Chief Executive of the Vodafone Group, said in a statement on Tuesday. "Over the next decade, the expansion of Internet of Things into consumer markets will bring about an equally dramatic shift in how people manage their daily lives, at home and in their leisure time."</p>
+<p><a href="https://www.cnbc.com/2017/11/07/telecoms-giant-vodafone-makes-push-into-internet-of-things-consumer-market.html">Read more</a> on CNBC.</p>
+---
+<p style="text-align: center;"><b>Follow us on </b><a href="https://twitter.com/LetsTalkPaymnts?lang=en"><b>Twitter</b></a><b>, </b><a href="https://www.linkedin.com/company/3317307/"><b>LinkedIn</b></a><b>, </b><a href="https://www.facebook.com/LetsTalkPayments/"><b>Facebook</b></a><b>, and </b><a href="https://medium.com/@LetsTalkPayments"><b>Medium</b></a><b>, to get the latest insights and most important industry updates!</b></p>

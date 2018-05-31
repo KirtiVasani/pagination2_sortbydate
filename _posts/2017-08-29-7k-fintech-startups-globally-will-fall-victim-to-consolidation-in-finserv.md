@@ -1,0 +1,85 @@
+﻿---
+title: 7K+ FinTech Startups Globally Will Fall Victim to Consolidation in FinServ
+date: 2017-08-29 04:00:07 +05:30
+categories:
+- Analytics
+- Enabling Technologies
+- Banking
+- Retail Banking
+- BankTech
+- Fintech
+- Innovation
+- Insights
+- Payments
+tags:
+- Alipay
+- Asia
+- Europe
+- insights
+- Klarna
+- Mastercard
+- Paypal
+- Tenpay
+- US
+- Visa
+layout: post
+type: post
+status: publish
+category:
+- BankTech
+- Enabling Technologies
+- Payments
+- Retail Banking
+- Analytics
+- Banking
+- Fintech
+- Innovation
+- Insights
+Markets:
+- Alipay
+- Asia
+- Europe
+- insights
+- Klarna
+- Mastercard
+- Paypal
+- Tenpay
+- US
+- Visa
+Person: Elena Mesropyan
+---
+
+<h2>Bright long-term legacy coupled with gloomy mid-term expectations </h2>
+<p>FinTech aficionados could argue endlessly about <a href="https://letstalkpayments.com/fintech-is-not-a-niche-anymore-its-a-powerful-and-highly-disruptive-industry/">the power gained by FinTech in the financial services industry</a>, and they wouldn't be completely wrong. Indeed, <a href="https://medici.letstalkpayments.com/">7,000+</a> financial technology startups around the world are proving to be capable of pushing the envelope beyond established consumer expectations, thus making it increasingly difficult for traditional institutions to match the pace. Moreover, global venture investments in FinTech grew by 11% to <a href="https://www.forbes.com/sites/lawrencewintermeyer/2017/02/17/global-fintech-vc-investment-soars-in-2016/#14dfcf592630">$17.4 billion in 2016</a>. And in 2017, we have <a href="https://letstalkpayments.com/by-2020-banks-may-become-fintech-warehouses/">a FinTech alternative, which appears more appealing, for any bank service</a>. </p>
+<p>A certain process, however, will bring the honeymoon to its inevitable end. The consolidation of resources (financial, talent, technology, and ideas) in the financial services industry will balance the market. It will also bring it to the original structure, where a very limited number of companies control the majority of the market.</p>
+<p>Besides, <a href="https://letstalkpayments.com/understand-future-of-financial-services-industry/">payments</a> and lending will likely be among the first segments to demonstrate the futility of the quantity. There are already <a href="https://letstalkpayments.com/understand-future-of-financial-services-industry/">1,000+</a> payments startups worldwide that are attempting to offer the same core service under different hoods. In fact, payments and lending/funding have steadily been <a href="https://letstalkpayments.com/global-fintech-funding-36-bn-2016/">the most represented and well-funded segments</a>. Within the payments segment, mobile wallets/payments represent the largest piece of the pie. According to <a href="https://medici.letstalkpayments.com/">MEDICI</a> data, about <a href="https://medici.letstalkpayments.com/companies">34%</a> of companies are already into this. </p>
+<p>Meanwhile, in 2015, <a href="http://www.gallup.com/businessjournal/184034/no-one-winning-battle-digital-wallet-customers.aspx">Gallup’s research</a> indicated that only 13% of adults in the U.S. had digital wallets on their smartphones. Of these 13%, 76% of them have never used it or have almost never used it to make any purchase from a retailer in the past 30 days. <a href="https://letstalkpayments.com/mobile-wallets-when-too-many-pays-wont-let-anyone-win/">Disjoint experiences and disconnected islands of mobile payments solutions</a> now serve as an obstacle preventing the whole segment from development.</p>
+<p>In any case, there is a bright side to these challenges. The <a href="https://letstalkpayments.com/understand-future-of-financial-services-industry/">legacy</a> of the current cacophony in FinTech will include the following: transformed business models; organizational cultures; significant automation and personalized solutions that can reduce business costs (e.g. <a href="https://letstalkpayments.com/how-robinhood-become-the-first-financial-app-to-receive-an-apple-design-award/">investment apps</a>); the redefinition of <a href="https://letstalkpayments.com/the-right-ux-makes-all-the-difference-in-banking/">the role of UX/UI in the financial services industry</a>; the expansion of business opportunities in a cost-effective manner through cross-border payments solutions; <a href="https://letstalkpayments.com/fintech-is-pushing-banks-out-of-the-remittance-business/">cheaper remittances</a>; <a href="https://letstalkpayments.com/alternative-credit-scoring-us-data-science-financial-potential-thin-file/">advancements in inclusive strategies in customer profiling</a> (alternative credit scoring, smart data use, etc.); <a href="https://letstalkpayments.com/journey-to-invisible-authentication/">the application of behavioral science for advanced security solutions</a>; and <a href="https://letstalkpayments.com/in-the-world-of-invisible-payments/">invisible payments</a>. All these solutions can revive e-commerce, guarantee customer loyalty and boost business sales. </p>
+<p>Gloomy expectations for the future of the vast pool of teams aspiring to bring <a href="https://letstalkpayments.com/the-origins-of-disruptive-innovation/">disruptive innovation</a> to FinServ are partially rooted in a few things. They include the current state of the hottest FinTech markets and the strategically wise behaviors demonstrated by powerful players.</p>
+<h2>Institutions will consume FinTechs to reinvent themselves, thus gaining back the edge and control over niche markets</h2>
+<p><a href="https://www.theinquirer.net/inquirer/sponsored/2478540/when-fintech-fails-lessons-from-the-startup-graveyard">The lessons from the FinTech graveyard</a> reveal one particularly interesting data point: approximately <a href="https://theoutline.com/post/2067/when-the-money-runs-out">75%</a> of venture-backed startups fail (I won’t even go looking for non-funded startup failure rates). Even though the number may vary in different markets, the idea remains valid: the vast majority of ventures will <a href="https://letstalkpayments.com/traps-and-pitfalls-for-fintech-startups/">fail for one reason or another</a>, perhaps due to lack of knowledgeable investors, problem/market misfit, compliance issues, unclear/absent marketing plan, mis-leadership, financial mismanagement, etc. All these foibles will leave the minority to tear up the market for sustainable shares. </p>
+<p>The story with FinTech doesn't culminate in 25% of survivors, as those 25% are not ending up becoming unicorns either. During previous interactions between FinTech startups and institutional players, the last ones developed <a href="https://letstalkpayments.com/the-latest-bank-fintech-initiatives/">a wise strategy to alleviate apparent threat in niche markets</a>. The strategy is simply <i>“keep your friends close and enemies closer”</i>, if we may call it so. Various <a href="https://letstalkpayments.com/?s=Open+Talent">challenges</a>, <a href="https://letstalkpayments.com/88-international-startup-accelerators-incubators-innovation-labs-nurturing-innovators-in-financial-services/">incubators, accelerators, innovation labs</a>, investment funds, and partnerships (one of the most revealing types of <a href="https://letstalkpayments.com/how-financial-institutions-stepping-up-their-game-in-wealth-management/">a strategic move</a>) have been leveraged to get much closer. As the debate over <a href="https://letstalkpayments.com/the-ongoing-debate-are-fintech-startups-really-disrupting-banks/">the place of FinTech in FinServ was determined and quantified</a>, the watch-and-see strategy has been replaced by blooming, mutually beneficial partnerships between FinTech startups and institutions (in insurance and banking). </p>
+<p>Visa, one of the two processors controlling the worlds payments, recently <a href="https://techcrunch.com/2017/06/27/1508499/">took a strategic stake in Klarna</a>, a Swedish e-commerce unicorn. After making an equity investment in the company, the two companies are forging a strategic partnership to roll out new products. Klarna is not the first strategic ties Visa acquired; Visa also invested in two other fast-growing financial startups: Square and Stripe. In 2016, both Visa and MasterCard handled <a href="https://www.bloomberg.com/news/articles/2017-07-17/plastic-versus-cash-battle-heats-up-after-visa-mastercard-deals">$4.3 trillion</a> in payments in the U.S., a figure that is more than twice the amount the two firms processed a decade ago. </p>
+<p>As much as <a href="https://qz.com/1040649/freecharges-acquisition-is-proof-that-the-axis-of-indian-banking-is-changing/">50%</a> of the world’s financial services firms have been reported to be planning to acquire FinTech startups in the next 5 years and since <a href="https://www.bloomberg.com/news/articles/2017-04-05/big-banks-poised-to-scoop-up-fintech-startups-report-finds">8 out of 10</a> institutions foresee making strategic partnerships with peer-to-peer lenders, digital money transfer platforms and other firms will reshape the e-commerce industry.</p>
+<p>Even traditional FinTechs follow the same path. <a href="https://techcrunch.com/2017/08/10/paypal-acquires-swift-financial/">PayPal recently acquired Swift Financial to boost small business lending</a>. As reported by TC, for PayPal, the acquisition should bolster a portion of the company’s business that has increased competition in the last few years. It first launched a working-capital product for businesses back in 2013; since then, competitors like Square and Kabbage have emerged, offering their own credit lines to small business customers.</p>
+<p>Technology leaders are also expected to become more aggressive in strategic acquisitions to get hands into new niches or strengthen positions in existing ones. Referring to a European PSD2, an example of IBM which is expected to go on a major strategic “shopping spree” as soon as next year, the CEO of Norwegian FinTech startup <a href="https://www.auka.io/">Auka</a> <a href="https://www.linkedin.com/in/doderlein/">Daniel Döderlein</a> shared with <a href="https://www.cnbc.com/2017/08/14/ibm-others-may-go-on-fintech-shopping-spree-in-2018-startup-ceo.html">CNBC</a> that larger players would start to acquire “fragments” and “niche verticals” – vendors that cater to a specific market – because larger players would need payments technology in place to exploit the <a href="https://letstalkpayments.com/psd2-final-rts-10-things-you-need-to-know/">EU’s PSD2</a>. Tech giants that have shared a long-standing relationship with banks but still rely on older technologies would begin to show an interest in a “flood” of new FinTech firms, Döderlein added.</p>
+<h2>In some of the hottest FinTech hubs, there is a very limited number of powerful players</h2>
+<p>In one of the most attractive FinTech markets globally – <a href="https://letstalkpayments.com/five-factors-dramatic-rise-chinas-fintech-2017/">China</a> (to be accurate, <a href="https://letstalkpayments.com/hong-kong-fintech-ecosystem-startups-regulators-investors-accelerators/">Hong Kong</a> is given much more credit than mainland China, but nonetheless) – only two companies, Alipay and Tenpay, together run a duopoly over mobile payments in the country, with <a href="http://www.businessinsider.com/alipay-and-tenpay-give-up-transaction-data-in-china-2017-8">91%</a> of the market. </p>
+<p>More importantly, powerful companies worldwide tend to extend their reach beyond domestic markets and original segments, a move that strengthens their position and provides competitive advantage in niche markets against smaller companies. For example, Ant Financial, the digital payments affiliate of China’s Alibaba, bid <a href="https://www.ft.com/content/de2b5514-231c-11e7-a34a-538b4cb30025">$1.2 billion</a> for MoneyGram. As explained by the <a href="https://www.ft.com/content/de2b5514-231c-11e7-a34a-538b4cb30025">Financial Times</a>, MoneyGram is Ant’s first major bid in the US, although it has accrued a string of stakes in mobile payment companies in India, Thailand and South Korea in the past few years. Alipay, initially set up to service Alibaba’s e-commerce operations (as eBay spawned the need for PayPal in the US), dominates China’s huge mobile payments market.</p>
+<p>In the US, the four major credit card networks – Visa, MasterCard, American Express, and Discover – dictate where credit cards and debit cards can be used. Visa and MasterCard have a <a href="https://www.forbes.com/sites/greatspeculations/2017/05/23/strong-growth-in-volumes-boosts-visas-u-s-credit-card-market-share-to-over-52/#7774bb266596">significant advantage in terms of worldwide acceptance</a>, while Amex and Discover supplement their payment facilitation business by issuing cards directly to consumers, <a href="https://wallethub.com/edu/market-share-by-credit-card-network/25531/">WalletHub</a> reports.</p>
+<p><img class="aligncenter size-full wp-image-27651" src="https://s3-us-west-2.amazonaws.com/go-medici/uploads/2017/08/Screen-Shot-2017-08-23-at-9.56.33-PM.png" alt="mastercard visa market share credit card" width="1404" height="748" /></p>
+<p><i>Image source: </i><a href="https://wallethub.com/edu/market-share-by-credit-card-network/25531/"><i>WalletHub</i></a></p>
+<p><img class="aligncenter size-full wp-image-27652" src="https://s3-us-west-2.amazonaws.com/go-medici/uploads/2017/08/Screen-Shot-2017-08-23-at-9.56.20-PM.png" alt="visa mastercard discover market share" width="1416" height="740" /></p>
+<p><i>Image source: </i><a href="https://wallethub.com/edu/market-share-by-credit-card-network/25531/"><i>WalletHub</i></a></p>
+<p><img class="aligncenter size-full wp-image-27653" src="https://s3-us-west-2.amazonaws.com/go-medici/uploads/2017/08/Screen-Shot-2017-08-23-at-10.01.27-PM.png" alt="mastercard visa market share " width="1436" height="312" /></p>
+<p><i>Image source: </i><a href="https://wallethub.com/edu/market-share-by-credit-card-network/25531/"><i>WalletHub</i></a></p>
+<p>In India, Alibaba-backed payment wallet Paytm grew its market share in six months to <a href="http://www.financialexpress.com/industry/paytm-hogs-market-share-at-68-vs-rival-freecharge-at-11-4-airtel-money-at-5-4/726968/">67.9%</a>, while its rival Freecharge had a share of 11.4%. As explained by the <a href="http://www.financialexpress.com/industry/paytm-hogs-market-share-at-68-vs-rival-freecharge-at-11-4-airtel-money-at-5-4/726968/">Financial Express</a>, the shares are based on the volume of transactions clocked by payment wallet firms in the top 10 metro cities. AirtelMoney managed a 5.4% share of the market followed by Mobikwik with 5%.</p>
+<h2>Customers will interact with fewer and fewer distributors in the future</h2>
+<p>A paper called <a href="https://www.weforum.org/reports/beyond-fintech-a-pragmatic-assessment-of-disruptive-potential-in-financial-services"><i>Beyond Fintech: A Pragmatic Assessment Of Disruptive Potential In Financial Services</i></a>, published a few days ago by WEF, suggests that customers will interact with fewer distributors in the future as the market consolidates and major firms gain market share. With consolidation, the product distribution will represent a likely point of entry for large tech firms due to their expertise. </p>
+<p>WEF lists the following implications of consolidation for financial institutions: </p>
+<ul>
+<li style="font-weight: 400;">All firms will seek to be distributors of both their products and those of others; their success will depend on the existing markets and whether they can capture mindshare. </li>
+<li style="font-weight: 400;">Product distributors may struggle to achieve ubiquity and consistency of experience across an increasingly fragmented universe of connected devices.</li>
+<li style="font-weight: 400;">Incumbents will have advantages in the cutthroat race to become distributors due to their existing customer base. However, incumbents that fail to become product distributors will see a decline in product profit margins due to cost commoditization. </li>
+</ul>
+<p>Market consolidation means that FinTechs, which lack both an existing customer base and the ability to scale quickly, will have to find niches if they wish to become distributors. In contrast, distributors may help FinTech compete with incumbents as manufacturers of specialized financial products. </p>

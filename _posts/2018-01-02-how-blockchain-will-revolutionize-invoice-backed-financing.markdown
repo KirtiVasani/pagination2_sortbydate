@@ -1,0 +1,75 @@
+﻿---
+title: How Blockchain Will Revolutionize Invoice-Backed Financing
+date: 2018-01-02 19:58:00 +05:30
+tags:
+- blockchain
+- distributed ledger technology
+- distributed systems
+- invoice financing
+- small business
+- electronic invoicing
+Image: "/uploads/klklk.jpg"
+category:
+- B2B FinTech
+Companies:
+- Corda
+Markets:
+- US
+- North America
+Is Featured: true
+Person: Diego Caicedo
+---
+
+The [recent spike](https://cointelegraph.com/news/bitcoin-hits-20000-per-coin-capping-year-of-enormous-growth) in the value of Bitcoin has captured the imagination of many people around the world. It is hard to believe that the cryptocurrency, which recently crossed the $20,000 mark, began the year with a relatively modest evaluation of $974. However, most people interested in buying and selling Bitcoins are probably not aware of the technology behind this digital currency, i.e., [blockchain](https://letstalkpayments.com/an-overview-of-blockchain-technology/) or distributed ledgers.
+
+The Bitcoin system involves the use of a digital distributed ledger that records the ownership of all Bitcoin holders. Miners (or paid volunteers) are responsible for adding entries to the ledger to record the transactions. People transacting use digital signatures for verifying the authenticity of the transaction. Over time, the miners take a set (or a collection) of such entries broadcast by different people and make a ‘block’ out of them. Only one miner can add a block to the ledger by performing complex calculations that are referred to as proof of work. The first miner to generate the right answer gets to add the new block to the blockchain.
+
+The digital signatures of the people transacting and the proof exhibited by the miner adding to the blockchain combine to make the system highly secure. The lack of a central authority gives the users complete control over the transaction. Naturally, such transactions also offer high levels of privacy. Therefore, no transaction reveals any private data of the people transacting in Bitcoins. These characteristics have made blockchain technology highly attractive in the FinTech sector.
+
+## How Can Blockchain Technology Affect Invoice-Backed Financing?
+
+Blockchain ledgers reside in several distributed processing nodes that miners use. As such, a complete copy of the database exists on each node. This makes it highly difficult for anyone to misuse the technology for fraudulent purposes. A person will need to fool all the miners in the system to create a fraudulent entry.
+
+Countries are rapidly adopting standardized [electronic invoicing](https://letstalkpayments.com/electronic-invoicing-opportunity-for-the-government-and-businesses/), but many of them still lack the infrastructure required to execute invoice backed financing in a highly automated and streamlined fashion and none are even close to allowing cross-border operations to be streamlined. This is where distributed ledgers become a key piece of the puzzle.
+
+One of the biggest risks in invoice financing is fraud. Buyers often have concerns over the legitimacy of an invoice, the power a given user has to execute a transaction or even the possibility of impersonation. In some cases, the seller may have financed the invoice repeatedly without the financiers being aware of this. In others, the transaction on the invoice might not even have taken place.
+
+The use of distributed ledger technology can put an end to these concerns. However, the current blockchain technology, that is what we call today’s 1.0 version, is still far from solving these issues. Conceptually, it makes sense, but when it comes to execution, blockchain does not yet fit this use case. Distributed ledgers are version 2.0 of the current systems, and can work around concepts such as identity verification, public/private transaction distinction, and automated execution of contracts which are more akin to what regulated financial institutions require to implement these systems at scale.
+
+Once the contracting parties agree to the terms of the transaction, identity verification takes place and the transaction is included in the interested parties’ digital ledger. This includes independent nodes that oversee the transaction, the seller, buyer, financier, and even insurance companies. All parties can participate and see what is relevant to each of them. There, the agreement remains securely stored and hard to repudiate subsequently. This speeds up the debtor confirmation process as well.
+
+Also, distributed ledger technology has the potential to bring smart contracts into vogue. Smart contracts are programmable contracts that function on distributed ledgers. When the parties in the contract meet certain conditions, the contract executes specific actions written in the distributed ledger. This eliminates the hassles of notifying the contracting parties of any changes in bank details, etc.
+
+## Blockchain Technology – The Forerunner of Change in the World of Invoice Financing
+
+Early movers have succeeded in designing laboratory scale blockchain applications for clients in the world of invoice financing. These applications offer end-to-end processes for:
+
+* Sending and receiving invoices
+
+* Verifying the authenticity and various other details specified in the invoices
+
+* Paying the invoices
+
+* Acknowledging the receipt of the payment made on the invoices
+
+However, these early movers are still in the process of creating something that scales. Currently, the proof of work that makes blockchain secure is also a major transactional cost for real-world transactions. This combined with the condition of anonymity makes it necessary for newer, version 2.0 ledgers, such as the R3 Consortium Corda ledger, in order to solve many of these issues.
+
+The use of distributed ledger technology is still in its nascent stages. The next generation, such as [Corda](https://www.corda.net/), can easily establish trust and certainty among all the stakeholders involved in the transaction. This technology provides:
+
+* A clear and clean identity verification process in line with AML practices
+
+* The ability to run multiple schemas of ledger distribution
+
+* A time-stamped record of the existence of all the invoices a company raises
+
+* A time-stamped record of the debtor’s receipt, confirmation, and verification of the invoices raised
+
+As this technology evolves, the use of blockchain technology could:
+
+* Speed up the processing of transactions
+
+* Nullify the occurrence of fraud
+
+* Eliminate intermediaries for holding money in a contract, while the funds flow from one party to another
+
+Blockchain could well usher in the next technological revolution in invoice financing. Estimates suggest that the global factoring industry has a value of about [$3 trillion](http://www.ucfunding.com/world-factoring-industry-3-trillion-business/) annually. Significantly, the factoring industry will continue to grow by approximately [10%](http://www.ucfunding.com/world-factoring-industry-3-trillion-business/) each year. These numbers highlight that the businesses that succeed in realizing the complete potential of this technology will acquire a hard-to-beat competitive edge.
